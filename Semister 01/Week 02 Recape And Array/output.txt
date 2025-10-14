@@ -1,1 +1,1 @@
-ODD
+Last two digit is: 25
