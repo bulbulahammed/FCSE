@@ -8,7 +8,7 @@ int main(){
         inputChar = inputChar - 32;
         printf("%c", inputChar);
     }else{
-        inputChar = inputChar + 32l;
+        inputChar = inputChar + 32;
         printf("%c", inputChar);
     }
     return 0;
