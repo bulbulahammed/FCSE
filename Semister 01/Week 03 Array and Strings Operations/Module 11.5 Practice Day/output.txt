@@ -1,0 +1,10 @@
+Frequency of 0 --> 1
+Frequency of 1 --> 2
+Frequency of 2 --> 1
+Frequency of 3 --> 0
+Frequency of 4 --> 1
+Frequency of 5 --> 2
+Frequency of 6 --> 0
+Frequency of 7 --> 2
+Frequency of 8 --> 1
+Frequency of 9 --> 0
