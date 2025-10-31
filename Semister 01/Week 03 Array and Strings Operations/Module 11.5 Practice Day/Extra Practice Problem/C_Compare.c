@@ -10,11 +10,11 @@ int main()
     {
         printf("%s", A);
     }
-    else if (different > 0)
+    if (different > 0)
     {
         printf("%s", B);
     }
-    else if (different == 0)
+    if (different == 0)
     {
         printf("%s", A);
     }
