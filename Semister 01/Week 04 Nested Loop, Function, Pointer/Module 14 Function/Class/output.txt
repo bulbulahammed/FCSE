@@ -1,0 +1,3 @@
+Main -> 10
+Global from Main -> 2025
+Sum -> 200Global from sum -> 2025
