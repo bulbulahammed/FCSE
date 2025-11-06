@@ -1,0 +1,5 @@
+Address of 0th index: 000000000061FE00
+Array Name as pointer: 000000000061FE00
+After Dereference: 10
+100 20 30 40 50 
+100 200 30 40 50 
