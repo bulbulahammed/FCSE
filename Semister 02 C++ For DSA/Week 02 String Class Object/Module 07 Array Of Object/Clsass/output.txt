@@ -1,1 +1,6 @@
 sifat 12 66
+Akib 24 67
+Rakib 18 68
+Sakib 15 89
+ifat 21 89
+rifat 32 98
